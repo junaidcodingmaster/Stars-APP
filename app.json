@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Stars App",
+    "slug": "snack-d9cb6f33-d937-4329-8add-2f83ab845b99",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "268f7581-5c8e-40a0-996b-0cfb0f82ab07"
+      }
+    }
+  }
+}
