@@ -30,7 +30,7 @@ To use the Stars app, follow these steps:
 
 If you don't want to install the app, you can try out Stars Web, the online version of the app, at https://stars-web-52055.web.app/. It's free and accessible from any device with an internet connection!
 
-### App is available at [url]()
+### Download the App: [./Stars-App.apk](./Stars-App.apk)
 
 ## Credits
 
