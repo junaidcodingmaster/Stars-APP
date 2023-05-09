@@ -38,4 +38,4 @@ Stars App is based on the [Stars API](https://github.com/junaidcodingmaster/Star
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.](./LICENSE.txt) file for details.
+This project is licensed under the MIT License - see the [LICENSE.txt](./LICENSE.txt) file for details.
